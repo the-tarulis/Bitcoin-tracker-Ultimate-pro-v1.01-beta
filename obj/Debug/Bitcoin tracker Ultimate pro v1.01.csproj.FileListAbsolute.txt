@@ -1,0 +1,37 @@
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\App.xbf
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\ItemPage.xbf
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\PivotPage.xbf
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\Bitcoin tracker Ultimate pro v1.01.xr.xml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\Bitcoin tracker Ultimate pro v1.01.exe
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\Bitcoin tracker Ultimate pro v1.01.pdb
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\resources.pri
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\AppxManifest.xml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\Bitcoin tracker Ultimate pro v1.01.build.appxrecipe
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\App.g.i.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\App.g.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\ItemPage.g.i.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\ItemPage.g.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\PivotPage.g.i.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\PivotPage.g.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\App.xaml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\ItemPage.xaml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\PivotPage.xaml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\App.xbf
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\ItemPage.xbf
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\PivotPage.xbf
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\XamlSaveStateFile.xml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\Bitcoin tracker Ultimate pro v1.01.exe
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\Bitcoin tracker Ultimate pro v1.01.pdb
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\priconfig.xml
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\priconfig.xml.intermediate
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\layout.resfiles
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\layout.resfiles.intermediate
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\resources.resfiles
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\resources.resfiles.intermediate
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\pri.resfiles
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\pri.resfiles.intermediate
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\qualifiers.txt
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\qualifiers.txt.intermediate
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\ProjectArchitectures.txt

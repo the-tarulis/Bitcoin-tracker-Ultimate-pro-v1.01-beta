@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ULIS</Machine>
+    <WindowsUser>ULIS</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>359e762f-4b24-48aa-95c0-9a94d5068e2e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\Bitcoin tracker Ultimate pro v1.01.exe">
+      <PackagePath>Bitcoin tracker Ultimate pro v1.01.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\Bitcoin tracker Ultimate pro v1.01.xr.xml">
+      <PackagePath>Bitcoin tracker Ultimate pro v1.01.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\PivotPage.xbf">
+      <PackagePath>PivotPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ramza\Documents\Visual Studio 2015\Projects\Bitcoin tracker Ultimate pro v1.01\Bitcoin tracker Ultimate pro v1.01\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
